@@ -2,43 +2,85 @@
 
 # 🚀 Welcome to Santpal's Digital Universe 🌌
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santpal%20Singh%20Kalra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Santpal%20Singh%20Kalra&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Architect%20%7C%20Code%20Craftsman&descAlignY=55&descAlign=62"/>
 
-<h3 align="center"><b>🚧 Builder of Digital Realms | Open Source Enthusiast | Lifelong Learner 🌱</b></h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Building+Digital+Experiences+%7C+One+Pixel+at+a+Time;Architecting+Scalable+Solutions+%7C+Clean+Code+Advocate;Open+Source+Contributor+%7C+Innovation+Driver;Transforming+Ideas+Into+Reality+%7C+Since+Day+One" alt="Typing SVG" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Full+Stack+Architect+%7C+Code+Craftsman;Designing+intuitive+UIs+%7C+Robust+Backends;Bringing+Ideas+to+Life+One+Commit+at+a+Time" alt="Typing SVG" />
+<br/>
+
+<!-- Badges Section -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-success?style=for-the-badge&logo=checkmark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Based%20in-Earth%20🌍-blue?style=for-the-badge"/>
+</div>
+
+</div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Mission Control Center
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔥 Current Status
 
 ```javascript
 const santpal = {
     location: "Earth 🌍",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "Java", "C++"],
-    currentFocus: "Building scalable web applications",
+    role: "Full Stack Architect",
+    languages: ["JavaScript", "Java", "C++", "Python"],
+    currentFocus: [
+        "Scalable web applications",
+        "System design patterns",
+        "Open source contributions"
+    ],
     lifePhilosophy: "Code with passion, debug with patience",
-    coffeeConsumed: "∞ cups ☕"
+    coffeeConsumed: "∞ cups ☕",
+    currentlyLearning: "Advanced cloud architecture",
+    nextGoal: "Contributing to major OSS projects"
 };
+
+console.log("Ready to build something amazing! 🚀");
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 Quick Stats
+### 🎮 Quick Stats Dashboard
 
-* 🌱 **Learning**: Advanced system design
-* 💻 **Working on**: Secret projects 🧢
-* 🎯 **Goal**: Master the art of clean code
-* 🚀 **Superpower**: Turning ideas into reality
-* 🎵 **Coding music**: Lo-fi beats
+<div align="center">
+
+**🌱 Currently Learning**
+```
+Advanced System Design & Cloud Architecture
+```
+
+**💻 Working On**
+```
+🧪 AI-Powered Medical Solutions
+🚀 Real-time Chat Applications  
+🔍 Research Data Analytics Tools
+```
+
+**🎯 2024 Goals**
+- [ ] Contribute to 5+ major open source projects
+- [x] Master advanced React patterns
+- [ ] Deploy 3 production-ready applications
+- [x] Build a strong developer community presence
+
+**⚡ Superpower**
+```
+Transforming coffee into clean, scalable code
+```
+
+</div>
 
 </td>
 </tr>
@@ -46,105 +88,205 @@ const santpal = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🛠️ Arsenal of Technologies
 
 <div align="center">
 
-### 🔥 Core Languages
-
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,cpp,html,css,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python,html,css&theme=dark" />
 </p>
 
-### ⚡ Frameworks & Runtime
-
+### ⚡ Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,react,nextjs,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,bootstrap,figma&theme=dark" />
 </p>
 
-### 💄 Databases & Cloud
-
+### 🔧 Backend & Runtime
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,firebase,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,spring&theme=dark" />
 </p>
 
-### ⚖️ Tools & Platforms
-
+### 🗄️ Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&theme=dark" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins&theme=dark" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&theme=dark" />
 </p>
 
 </div>
 
 ---
 
-## 📊 Battle Statistics
+## 📊 Battle Statistics & Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Santpal1&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Santpal1&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+<table>
+<tr>
+<td width="50%">
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Santpal1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=03DAC6&text_color=FFFFFF&custom_title=⚡%20GitHub%20Statistics"/>
+</td>
+<td width="50%">
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Santpal1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&custom_title=🔥%20Most%20Used%20Languages"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santpal1&theme=tokyonight&hide_border=true&background=0D1117&stroke=BB86FC&ring=03DAC6&fire=FF6B6B&currStreakLabel=FFFFFF&dates=8B949E" height="200em"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santpal1&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" height="180em"/>
-</div>
+### 📈 Detailed Contribution Metrics
 
----
-
-## 🏆 Achievement Unlocked
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santpal1&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santpal1&custom_title=Santpal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1\&repo=AI-Powered-Furcation_Detection\&theme=react\&hide_border=true\&bg_color=0D1117)](https://github.com/Santpal1/AI-Powered-Furcation_Detection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1\&repo=Q-Chat\&theme=react\&hide_border=true\&bg_color=0D1117)](https://github.com/Santpal1/Q-Chat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1\&repo=SCOPUS_SRM\&theme=react\&hide_border=true\&bg_color=0D1117)](https://github.com/Santpal1/SCOPUS_SRM)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santpal1&custom_title=📊%20Santpal's%20Contribution%20Journey&bg_color=0D1117&color=03DAC6&line=BB86FC&point=FFFFFF&area_color=BB86FC&area=true&hide_border=true&height=300" width="100%"/>
 
 </div>
 
 ---
 
-## 🌟 Connect & Collaborate
+## 🏆 Achievement Gallery
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Santpal1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6"/>
+</div>
+
+---
+
+## 🚧 Featured Projects Portfolio
 
 <div align="center">
 
-<p>Let's build something amazing together! 🚀</p>
+### 🌟 Flagship Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=0077B5)](https://linkedin.com/in/santpal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=D14836)](mailto:santpalkalra1@gmail.com)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge\&logo=codepen\&logoColor=white\&labelColor=000000)](https://codepen.io/Santpal-Kalra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white\&labelColor=FF5722)](#)
+<table>
+<tr>
+<td width="50%">
+
+[![AI Medical Detection](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=AI-Powered-Furcation_Detection&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/AI-Powered-Furcation_Detection)
+
+**🧠 AI-Powered Medical Solution**
+- Advanced machine learning algorithms
+- Medical image analysis
+- Real-time detection capabilities
+
+</td>
+<td width="50%">
+
+[![Q-Chat Application](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=Q-Chat&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/Q-Chat)
+
+**💬 Real-time Chat Platform**
+- WebSocket implementation
+- Modern UI/UX design
+- Scalable architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Research Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=SCOPUS_SRM&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/SCOPUS_SRM)
+
+**📊 Research Data Analytics**
+- Data visualization tools
+- Research paper analysis
+- Academic insights platform
+
+</td>
+<td width="50%">
+
+<div align="center" style="padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; margin: 10px;">
+  <h3>🚀 More Projects Coming Soon</h3>
+  <p>Currently working on exciting new projects!</p>
+  <p>Stay tuned for updates</p>
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 💭 Daily Dose of Inspiration
+## 🌐 Connect & Collaborate Hub
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker"/>
+
+<h3>Let's build the future together! 🚀</h3>
+
+<p>
+  <a href="https://linkedin.com/in/santpal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="mailto:santpalkalra1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+  <a href="https://codepen.io/Santpal-Kalra">
+    <img src="https://img.shields.io/badge/CodePen-Explore-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722"/>
+  </a>
+</p>
+
+### 📫 Quick Response Guarantee
+**I typically respond within 24 hours!** ⚡
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 💡 Developer Insights
+
+<div align="center">
+
+### 🧠 Philosophy & Approach
+
+```yaml
+code_quality: "Clean, readable, and maintainable"
+problem_solving: "Think twice, code once"
+collaboration: "Great ideas come from great teams"
+continuous_learning: "Every day is a school day"
+innovation: "Challenge the status quo"
+```
+
+### 📚 Currently Reading
+📖 "System Design Interview" by Alex Xu  
+📖 "Clean Architecture" by Robert Martin  
+📖 "Designing Data-Intensive Applications" by Martin Kleppmann  
+
+</div>
+
+---
+
+## 🎵 Coding Soundtrack
+
+<div align="center">
+  
+**🎧 Current Vibe**
+```
+🎵 Lo-fi Hip Hop Radio - beats to relax/study to
+🎵 Synthwave Mix - retro coding sessions
+🎵 Deep Focus - Hans Zimmer Edition
+```
+
+<a href="https://open.spotify.com/user/ww355j0rfqwu9g3v8hntew9jp">
+  <img src="https://img.shields.io/badge/Spotify-Follow%20My%20Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Visualization
 
 <div align="center">
   <picture>
@@ -156,20 +298,26 @@ const santpal = {
 
 ---
 
-### 🎵 Currently Jamming To
+## 📈 Metrics Dashboard
 
 <div align="center">
-  <a href="https://open.spotify.com/user/ww355j0rfqwu9g3v8hntew9jp">
-    <img src="https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify"/>
-  </a>
+
+<img src="https://komarev.com/ghpvc/?username=Santpal1&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Santpal1?style=for-the-badge&color=blue&labelColor=1c1c1c" alt="Followers"/>
+<img src="https://img.shields.io/badge/Years%20of%20Coding-5+-brightgreen?style=for-the-badge&labelColor=1c1c1c" alt="Years of Coding"/>
+
+### 💭 Daily Motivation
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker"/>
+
 </div>
 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Santpal1&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+**"First, solve the problem. Then, write the code."** – John Johnson
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
 </div>
