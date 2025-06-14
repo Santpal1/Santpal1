@@ -115,8 +115,9 @@ const santpal = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=your-awesome-project&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=another-cool-project&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/another-cool-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=AI-Powered-Furcation_Detection&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/AI-Powered-Furcation_Detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=Q-Chat&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/Q-Chat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=SCOPUS_SRM&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/SCOPUS_SRM)
 
 </div>
 
@@ -131,7 +132,7 @@ const santpal = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/santpal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:santpalkalra1@gmail.com)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/Santpal-Kalra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](#)
 
 </div>
 
@@ -149,9 +150,9 @@ const santpal = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santpal1/Santpal1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santpal1/Santpal1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Santpal1/Santpal1/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santpal1/Santpal1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santpal1/Santpal1/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Santpal1/Santpal1/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -160,7 +161,7 @@ const santpal = {
 <div align="center">
 
 ### 🎵 Currently Jamming To
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/Santpal)
 
 </div>
 
