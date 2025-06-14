@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santpal%20Singh%20Kalra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Architect+%7C+Code+Craftsman;Building+tomorrow's+web%2C+one+commit+at+a+time;Where+creativity+meets+functionality+✨" alt="Animated Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Architect+%7C+Code+Craftsman;Building+tomorrow's+web%2C+one+commit+at+a+time;Where+creativity+meets+functionality+%E2%9C%A8" alt="Animated Typing" />
 </p>
 
 ---
