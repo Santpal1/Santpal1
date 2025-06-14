@@ -161,7 +161,7 @@ const santpal = {
 <div align="center">
 
 ### 🎵 Currently Jamming To
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/Santpal)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/ww355j0rfqwu9g3v8hntew9jp)
 
 </div>
 
