@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to Santpal's Digital Universe 🌌
+# 🚀 Welcome to My GitHub Profile 🌌
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Santpal%20Singh%20Kalra&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Architect%20%7C%20Code%20Craftsman&descAlignY=55&descAlign=62"/>
 
