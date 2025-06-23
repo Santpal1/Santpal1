@@ -140,9 +140,6 @@ Transforming coffee into clean, scalable code
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santpal1&theme=tokyonight&hide_border=true&background=0D1117&stroke=BB86FC&ring=03DAC6&fire=FF6B6B&currStreakLabel=FFFFFF&dates=8B949E" height="200em"/>
-</div>
 
 ### 📈 Detailed Contribution Metrics
 
