@@ -75,23 +75,23 @@ Microservices & Distributed Systems
 🌐 Cloud-Native Applications
 ```
 
-**🎯 2024 Goals**
-- [ ] Contribute to 5+ major open source projects
-- [x] Master advanced React patterns
-- [ ] Deploy 3 production-ready applications
-- [x] Build a strong developer community presence
-- [ ] Achieve AWS certification
+**🎯 2025 Goals**
+- [ ] Contribute to open source projects
+- [ ] Learn advanced React patterns
+- [ ] Deploy production-ready applications
+- [ ] Build connections in developer community
+- [ ] Explore cloud technologies
 
 **⚡ Superpower**
 ```
 Transforming coffee into clean, scalable code
 ```
 
-**🏆 Achievements**
+**🌟 Focus Areas**
 ```
-✅ 100+ GitHub repositories
-✅ 50+ successful deployments
-✅ 1000+ commits this year
+🔥 Learning new technologies
+🚀 Building practical projects
+💡 Problem-solving & debugging
 ```
 
 </div>
@@ -144,43 +144,39 @@ Transforming coffee into clean, scalable code
 
 <div align="center">
 
-### 🔥 GitHub Streak & Activity
+### 🔥 GitHub Statistics
 
-<img width="49%" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Santpal1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=03DAC6&text_color=FFFFFF&custom_title=⚡%20GitHub%20Statistics"/>
-<img width="49%" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Santpal1&theme=tokyonight&hide_border=true&background=0D1117&stroke=BB86FC&ring=03DAC6&fire=BB86FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=03DAC6&sideLabels=03DAC6&dates=FFFFFF"/>
+<table>
+<tr>
+<td width="50%">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Santpal1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=03DAC6&text_color=FFFFFF"/>
+</td>
+<td width="50%">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Santpal1&theme=tokyonight&hide_border=true&background=0D1117&stroke=BB86FC&ring=03DAC6&fire=BB86FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=03DAC6&sideLabels=03DAC6&dates=FFFFFF"/>
+</td>
+</tr>
+</table>
 
-### 📈 Language Distribution & Contribution Patterns
+### 📈 Language Distribution
 
-<img width="49%" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Santpal1&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&custom_title=🔥%20Most%20Used%20Languages"/>
-<img width="49%" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Santpal1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&custom_title=⏰%20Weekly%20Coding%20Time"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santpal1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF"/>
 
 ### 📊 Detailed Contribution Journey
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santpal1&custom_title=📊%20Santpal's%20Annual%20Contribution%20Journey&bg_color=0D1117&color=03DAC6&line=BB86FC&point=FFFFFF&area_color=BB86FC&area=true&hide_border=true&height=300" width="100%"/>
 
-### 🏃‍♂️ Coding Velocity Metrics
+### 💻 Development Focus
 
 <table align="center">
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-2000+-brightgreen?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Building-brightgreen?style=for-the-badge&logo=target&logoColor=white"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Active%20Days-300+-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code%20Style-Clean%20%26%20Readable-blue?style=for-the-badge&logo=code&logoColor=white"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Longest%20Streak-50%20days-orange?style=for-the-badge&logo=fire&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Total%20PRs-150+-purple?style=for-the-badge&logo=github&logoColor=white"/>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Issues%20Solved-200+-red?style=for-the-badge&logo=checkmark&logoColor=white"/>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Code%20Reviews-100+-yellow?style=for-the-badge&logo=eye&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Approach-Problem%20Solving-orange?style=for-the-badge&logo=lightbulb&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -196,29 +192,19 @@ Transforming coffee into clean, scalable code
 ### 🎖️ GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Santpal1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=3&column=6"/>
 
-### 🌟 Special Achievements
+### 🎯 Learning Journey
 <table>
 <tr>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2023%20Contributor-orange?style=for-the-badge&logo=hacktoberfest&logoColor=white"/>
-  <br><sub><b>Open Source Champion</b></sub>
+<td align="center" width="50%">
+  <img src="https://img.shields.io/badge/Currently%20Learning-System%20Design-orange?style=for-the-badge&logo=architecture&logoColor=white"/>
+  <br><sub><b>Building scalable solutions</b></sub>
 </td>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault-blue?style=for-the-badge&logo=github&logoColor=white"/>
-  <br><sub><b>Code Preservationist</b></sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-Top%20Contributor-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  <br><sub><b>Community Helper</b></sub>
+<td align="center" width="50%">
+  <img src="https://img.shields.io/badge/Exploring-Cloud%20Technologies-blue?style=for-the-badge&logo=cloud&logoColor=white"/>
+  <br><sub><b>Modern deployment strategies</b></sub>
 </td>
 </tr>
 </table>
-
-### 📊 Performance Dashboard
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santpal1&theme=tokyonight"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santpal1&theme=tokyonight"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santpal1&theme=tokyonight"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santpal1&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
@@ -296,11 +282,11 @@ Transforming coffee into clean, scalable code
 </tr>
 </table>
 
-### 🎯 Project Impact Metrics
+### 🎯 Development Approach
 <div align="center">
-<img src="https://img.shields.io/badge/Total%20Stars%20Earned-500+-gold?style=for-the-badge&logo=star&logoColor=white"/>
-<img src="https://img.shields.io/badge/Forks%20Generated-200+-silver?style=for-the-badge&logo=git-alt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Downloads-10K+-green?style=for-the-badge&logo=download&logoColor=white"/>
+<img src="https://img.shields.io/badge/Quality-Over%20Quantity-gold?style=for-the-badge&logo=star&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Learning%20%26%20Growth-silver?style=for-the-badge&logo=trending-up&logoColor=white"/>
+<img src="https://img.shields.io/badge/Goal-Continuous%20Improvement-green?style=for-the-badge&logo=target&logoColor=white"/>
 </div>
 
 </div>
@@ -335,21 +321,12 @@ Transforming coffee into clean, scalable code
   <a href="https://dev.to/santpal">
     <img src="https://img.shields.io/badge/dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@santpal">
-    <img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/santpal">
-    <img src="https://img.shields.io/badge/Stack_Overflow-Follow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>
 </p>
 
-### 📫 Response Time Guarantee
-<img src="https://img.shields.io/badge/Email%20Response-Within%2024h-brightgreen?style=for-the-badge&logo=clock&logoColor=white"/>
-<img src="https://img.shields.io/badge/LinkedIn%20DM-Within%2012h-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+### 📫 Let's Connect
+**I'm always open to interesting conversations and collaboration opportunities!**
 
-### 🌍 Timezone & Availability
 <img src="https://img.shields.io/badge/Timezone-UTC+5:30%20(IST)-orange?style=for-the-badge&logo=world&logoColor=white"/>
-<img src="https://img.shields.io/badge/Best%20Time%20to%20Reach-9AM--6PM%20IST-green?style=for-the-badge&logo=calendar&logoColor=white"/>
 
 </div>
 
@@ -397,11 +374,11 @@ security: "Security is not a feature, it's a foundation"
 </tr>
 </table>
 
-### 🎯 Professional Development Goals
-- **2024 Q1**: Complete AWS certification and deploy 2 cloud-native applications
-- **2024 Q2**: Contribute to 3 major open-source projects (React, Node.js ecosystem)
-- **2024 Q3**: Launch personal tech blog and speak at 2 developer conferences
-- **2024 Q4**: Mentor 5 junior developers and build a developer community
+### 🎯 Professional Development Journey
+- **2025 Q1**: Focus on system design fundamentals and cloud architecture
+- **2025 Q2**: Contribute to open-source projects and build practical applications  
+- **2025 Q3**: Explore advanced topics and expand technical knowledge
+- **2025 Q4**: Share learnings through documentation and mentoring
 
 </div>
 
@@ -447,10 +424,10 @@ Design: Figma + Adobe Creative Suite
 Productivity: Notion + Obsidian + Todoist
 ```
 
-### 📊 Productivity Metrics
-<img src="https://img.shields.io/badge/Average%20Coding%20Hours-6--8%20per%20day-brightgreen?style=for-the-badge&logo=clock&logoColor=white"/>
-<img src="https://img.shields.io/badge/Peak%20Productivity-Early%20Morning%20(6AM--10AM)-orange?style=for-the-badge&logo=sunrise&logoColor=white"/>
-<img src="https://img.shields.io/badge/Preferred%20Break-15min%20every%202hrs-blue?style=for-the-badge&logo=coffee&logoColor=white"/>
+### 📊 Activity Overview
+<img src="https://img.shields.io/badge/Coding%20Style-Consistent%20%26%20Clean-brightgreen?style=for-the-badge&logo=clock&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learning%20Mode-Always%20On-orange?style=for-the-badge&logo=book&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coffee%20Consumption-High-brown?style=for-the-badge&logo=coffee&logoColor=white"/>
 
 </div>
 
@@ -475,12 +452,7 @@ Productivity: Notion + Obsidian + Todoist
 ### 👀 Profile Analytics
 <img src="https://komarev.com/ghpvc/?username=Santpal1&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Santpal1?style=for-the-badge&color=blue&labelColor=1c1c1c&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/badge/Years%20of%20Coding-5+-brightgreen?style=for-the-badge&labelColor=1c1c1c&logo=code" alt="Years of Coding"/>
-
-### 🌟 Social Proof
-<img src="https://img.shields.io/badge/GitHub%20Stars-500+-yellow?style=for-the-badge&logo=star&logoColor=white"/>
-<img src="https://img.shields.io/badge/Network%20Reach-10K+-purple?style=for-the-badge&logo=network&logoColor=white"/>
-<img src="https://img.shields.io/badge/Community%20Impact-High-red?style=for-the-badge&logo=heart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learning%20Journey-Ongoing-brightgreen?style=for-the-badge&labelColor=1c1c1c&logo=graduation-cap" alt="Learning Journey"/>
 
 ### 💭 Daily Inspiration & Motivation
 
