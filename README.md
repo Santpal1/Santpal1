@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge&logo=target&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-success?style=for-the-badge&logo=checkmark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Based%20in-Earth%20🌍-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Coding%20Since-2019-ff6b6b?style=for-the-badge&logo=code&logoColor=white"/>
 </div>
 
 </div>
@@ -45,10 +44,7 @@ const santpal = {
     lifePhilosophy: "Code with passion, debug with patience",
     coffeeConsumed: "∞ cups ☕",
     currentlyLearning: "Advanced cloud architecture",
-    nextGoal: "Contributing to major OSS projects",
-    timezone: "UTC+5:30",
-    favoriteIDE: "VS Code",
-    preferredOS: "Linux/Windows"
+    nextGoal: "Contributing to major OSS projects"
 };
 
 console.log("Ready to build something amazing! 🚀");
@@ -64,7 +60,6 @@ console.log("Ready to build something amazing! 🚀");
 **🌱 Currently Learning**
 ```
 Advanced System Design & Cloud Architecture
-Microservices & Distributed Systems
 ```
 
 **💻 Working On**
@@ -72,26 +67,17 @@ Microservices & Distributed Systems
 🧪 AI-Powered Medical Solutions
 🚀 Real-time Chat Applications  
 🔍 Research Data Analytics Tools
-🌐 Cloud-Native Applications
 ```
 
-**🎯 2025 Goals**
-- [ ] Contribute to open source projects
-- [ ] Learn advanced React patterns
-- [ ] Deploy production-ready applications
-- [ ] Build connections in developer community
-- [ ] Explore cloud technologies
+**🎯 2024 Goals**
+- [ ] Contribute to 5+ major open source projects
+- [x] Master advanced React patterns
+- [ ] Deploy 3 production-ready applications
+- [x] Build a strong developer community presence
 
 **⚡ Superpower**
 ```
 Transforming coffee into clean, scalable code
-```
-
-**🌟 Focus Areas**
-```
-🔥 Learning new technologies
-🚀 Building practical projects
-💡 Problem-solving & debugging
 ```
 
 </div>
@@ -108,32 +94,32 @@ Transforming coffee into clean, scalable code
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python,html,css,go&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python,html,css&theme=dark" />
 </p>
 
 ### ⚡ Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass,bootstrap,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,bootstrap,figma&theme=dark" />
 </p>
 
 ### 🔧 Backend & Runtime
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,spring,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,spring&theme=dark" />
 </p>
 
 ### 🗄️ Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&theme=dark" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,jenkins&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins&theme=dark" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel,netlify,heroku&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&theme=dark" />
 </p>
 
 </div>
@@ -143,69 +129,30 @@ Transforming coffee into clean, scalable code
 ## 📊 Battle Statistics & Analytics
 
 <div align="center">
-
-### 🔥 GitHub Statistics
-
 <table>
 <tr>
 <td width="50%">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Santpal1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=03DAC6&text_color=FFFFFF"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Santpal1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=03DAC6&text_color=FFFFFF&custom_title=⚡%20GitHub%20Statistics"/>
 </td>
 <td width="50%">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Santpal1&theme=tokyonight&hide_border=true&background=0D1117&stroke=BB86FC&ring=03DAC6&fire=BB86FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=03DAC6&sideLabels=03DAC6&dates=FFFFFF"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Santpal1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&custom_title=🔥%20Most%20Used%20Languages"/>
 </td>
 </tr>
 </table>
 
-### 📈 Language Distribution
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santpal1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF"/>
+### 📈 Detailed Contribution Metrics
 
-### 📊 Detailed Contribution Journey
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santpal1&custom_title=📊%20Santpal's%20Annual%20Contribution%20Journey&bg_color=0D1117&color=03DAC6&line=BB86FC&point=FFFFFF&area_color=BB86FC&area=true&hide_border=true&height=300" width="100%"/>
-
-### 💻 Development Focus
-
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Building-brightgreen?style=for-the-badge&logo=target&logoColor=white"/>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Code%20Style-Clean%20%26%20Readable-blue?style=for-the-badge&logo=code&logoColor=white"/>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Approach-Problem%20Solving-orange?style=for-the-badge&logo=lightbulb&logoColor=white"/>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santpal1&custom_title=📊%20Santpal's%20Contribution%20Journey&bg_color=0D1117&color=03DAC6&line=BB86FC&point=FFFFFF&area_color=BB86FC&area=true&hide_border=true&height=300" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 Achievement Gallery & Recognition
+## 🏆 Achievement Gallery
 
 <div align="center">
-  
-### 🎖️ GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Santpal1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=3&column=6"/>
-
-### 🎯 Learning Journey
-<table>
-<tr>
-<td align="center" width="50%">
-  <img src="https://img.shields.io/badge/Currently%20Learning-System%20Design-orange?style=for-the-badge&logo=architecture&logoColor=white"/>
-  <br><sub><b>Building scalable solutions</b></sub>
-</td>
-<td align="center" width="50%">
-  <img src="https://img.shields.io/badge/Exploring-Cloud%20Technologies-blue?style=for-the-badge&logo=cloud&logoColor=white"/>
-  <br><sub><b>Modern deployment strategies</b></sub>
-</td>
-</tr>
-</table>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Santpal1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6"/>
 </div>
 
 ---
@@ -224,13 +171,8 @@ Transforming coffee into clean, scalable code
 
 **🧠 AI-Powered Medical Solution**
 - Advanced machine learning algorithms
-- Medical image analysis & computer vision
+- Medical image analysis
 - Real-time detection capabilities
-- Clinical accuracy validation
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white"/>
 
 </td>
 <td width="50%">
@@ -240,12 +182,7 @@ Transforming coffee into clean, scalable code
 **💬 Real-time Chat Platform**
 - WebSocket implementation
 - Modern UI/UX design
-- Scalable microservices architecture
-- End-to-end encryption
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101"/>
+- Scalable architecture
 
 </td>
 </tr>
@@ -255,39 +192,22 @@ Transforming coffee into clean, scalable code
 [![Research Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=SCOPUS_SRM&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/SCOPUS_SRM)
 
 **📊 Research Data Analytics**
-- Advanced data visualization
-- Research paper analysis & insights
-- Academic metrics dashboard
-- Publication trend analysis
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white"/>
+- Data visualization tools
+- Research paper analysis
+- Academic insights platform
 
 </td>
 <td width="50%">
 
 <div align="center" style="padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; margin: 10px;">
-  <h3>🚀 Coming Soon</h3>
-  <p><strong>Cloud-Native E-Commerce Platform</strong></p>
-  <p>Microservices • Kubernetes • CI/CD</p>
-  <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge"/>
-  <br><br>
-  <p><strong>AI Code Review Assistant</strong></p>
-  <p>Machine Learning • Code Quality • Automation</p>
-  <img src="https://img.shields.io/badge/Status-Design%20Phase-blue?style=for-the-badge"/>
+  <h3>🚀 More Projects Coming Soon</h3>
+  <p>Currently working on exciting new projects!</p>
+  <p>Stay tuned for updates</p>
 </div>
 
 </td>
 </tr>
 </table>
-
-### 🎯 Development Approach
-<div align="center">
-<img src="https://img.shields.io/badge/Quality-Over%20Quantity-gold?style=for-the-badge&logo=star&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Learning%20%26%20Growth-silver?style=for-the-badge&logo=trending-up&logoColor=white"/>
-<img src="https://img.shields.io/badge/Goal-Continuous%20Improvement-green?style=for-the-badge&logo=target&logoColor=white"/>
-</div>
 
 </div>
 
@@ -314,29 +234,18 @@ Transforming coffee into clean, scalable code
   </a>
 </p>
 
-<p>
-  <a href="https://twitter.com/santpal_dev">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/santpal">
-    <img src="https://img.shields.io/badge/dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-</p>
-
-### 📫 Let's Connect
-**I'm always open to interesting conversations and collaboration opportunities!**
-
-<img src="https://img.shields.io/badge/Timezone-UTC+5:30%20(IST)-orange?style=for-the-badge&logo=world&logoColor=white"/>
+### 📫 Quick Response Guarantee
+**I typically respond within 24 hours!** ⚡
 
 </div>
 
 ---
 
-## 💡 Developer Insights & Philosophy
+## 💡 Developer Insights
 
 <div align="center">
 
-### 🧠 Core Principles & Approach
+### 🧠 Philosophy & Approach
 
 ```yaml
 code_quality: "Clean, readable, and maintainable"
@@ -344,96 +253,37 @@ problem_solving: "Think twice, code once"
 collaboration: "Great ideas come from great teams"
 continuous_learning: "Every day is a school day"
 innovation: "Challenge the status quo"
-testing: "Code without tests is broken by design"
-documentation: "Code tells you how, comments tell you why"
-performance: "Premature optimization is the root of all evil"
-security: "Security is not a feature, it's a foundation"
 ```
 
-### 📚 Current Learning Stack
-<table>
-<tr>
-<td align="center" width="50%">
-  <h4>📖 Books in Progress</h4>
-  <ul align="left">
-    <li>📘 "System Design Interview" by Alex Xu</li>
-    <li>📗 "Clean Architecture" by Robert Martin</li>
-    <li>📙 "Designing Data-Intensive Applications" by Martin Kleppmann</li>
-    <li>📕 "Microservices Patterns" by Chris Richardson</li>
-  </ul>
-</td>
-<td align="center" width="50%">
-  <h4>🎓 Courses & Certifications</h4>
-  <ul align="left">
-    <li>🔥 AWS Solutions Architect (In Progress)</li>
-    <li>🐳 Docker & Kubernetes Mastery</li>
-    <li>⚛️ Advanced React Patterns</li>
-    <li>🔐 Cybersecurity Fundamentals</li>
-  </ul>
-</td>
-</tr>
-</table>
-
-### 🎯 Professional Development Journey
-- **2025 Q1**: Focus on system design fundamentals and cloud architecture
-- **2025 Q2**: Contribute to open-source projects and build practical applications  
-- **2025 Q3**: Explore advanced topics and expand technical knowledge
-- **2025 Q4**: Share learnings through documentation and mentoring
+### 📚 Currently Reading
+📖 "System Design Interview" by Alex Xu  
+📖 "Clean Architecture" by Robert Martin  
+📖 "Designing Data-Intensive Applications" by Martin Kleppmann  
 
 </div>
 
 ---
 
-## 🎵 Coding Environment & Productivity
+## 🎵 Coding Soundtrack
 
 <div align="center">
-
-### 🎧 Optimal Coding Soundtrack
-<table>
-<tr>
-<td align="center" width="33%">
-  <h4>🎶 Deep Focus Sessions</h4>
-  <img src="https://img.shields.io/badge/Lo--fi%20Hip%20Hop-Coding%20Beats-ff6b6b?style=for-the-badge"/>
-  <br><sub>Perfect for problem-solving</sub>
-</td>
-<td align="center" width="33%">
-  <h4>🚀 High Energy Coding</h4>
-  <img src="https://img.shields.io/badge/Synthwave-Retro%20Vibes-4ecdc4?style=for-the-badge"/>
-  <br><sub>Ideal for feature development</sub>
-</td>
-<td align="center" width="33%">
-  <h4>🧘 Debugging Sessions</h4>
-  <img src="https://img.shields.io/badge/Ambient-Nature%20Sounds-45b7d1?style=for-the-badge"/>
-  <br><sub>Maintains calm focus</sub>
-</td>
-</tr>
-</table>
+  
+**🎧 Current Vibe**
+```
+🎵 Lo-fi Hip Hop Radio - beats to relax/study to
+🎵 Synthwave Mix - retro coding sessions
+🎵 Deep Focus - Hans Zimmer Edition
+```
 
 <a href="https://open.spotify.com/user/ww355j0rfqwu9g3v8hntew9jp">
   <img src="https://img.shields.io/badge/Spotify-Follow%20My%20Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
-### ⚙️ Development Environment Setup
-```bash
-# My Ideal Setup
-OS: Ubuntu 22.04 LTS / Windows 11 (Dual Boot)
-IDE: VS Code with 20+ extensions
-Terminal: Zsh with Oh-My-Zsh + Powerlevel10k
-Browser: Chrome DevTools + Firefox Developer Edition
-Design: Figma + Adobe Creative Suite
-Productivity: Notion + Obsidian + Todoist
-```
-
-### 📊 Activity Overview
-<img src="https://img.shields.io/badge/Coding%20Style-Consistent%20%26%20Clean-brightgreen?style=for-the-badge&logo=clock&logoColor=white"/>
-<img src="https://img.shields.io/badge/Learning%20Mode-Always%20On-orange?style=for-the-badge&logo=book&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coffee%20Consumption-High-brown?style=for-the-badge&logo=coffee&logoColor=white"/>
-
 </div>
 
 ---
 
-## 🐍 Dynamic Contribution Visualization
+## 🐍 Contribution Visualization
 
 <div align="center">
   <picture>
@@ -445,54 +295,23 @@ Productivity: Notion + Obsidian + Todoist
 
 ---
 
-## 📱 Real-time Metrics Dashboard
+## 📈 Metrics Dashboard
 
 <div align="center">
 
-### 👀 Profile Analytics
 <img src="https://komarev.com/ghpvc/?username=Santpal1&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Santpal1?style=for-the-badge&color=blue&labelColor=1c1c1c&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/badge/Learning%20Journey-Ongoing-brightgreen?style=for-the-badge&labelColor=1c1c1c&logo=graduation-cap" alt="Learning Journey"/>
+<img src="https://img.shields.io/github/followers/Santpal1?style=for-the-badge&color=blue&labelColor=1c1c1c" alt="Followers"/>
+<img src="https://img.shields.io/badge/Years%20of%20Coding-5+-brightgreen?style=for-the-badge&labelColor=1c1c1c" alt="Years of Coding"/>
 
-### 💭 Daily Inspiration & Motivation
+### 💭 Daily Motivation
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker"/>
 
-### 🎯 Current Focus Areas
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/AI%2FML-🤖-ff6b6b?style=for-the-badge"/>
-  <br><sub>Exploring neural networks</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Cloud%20Native-☁️-4ecdc4?style=for-the-badge"/>
-  <br><sub>Kubernetes & serverless</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Web3%2FBlockchain-⛓️-45b7d1?style=for-the-badge"/>
-  <br><sub>Decentralized applications</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/DevOps-🔧-96ceb4?style=for-the-badge"/>
-  <br><sub>CI/CD optimization</sub>
-</td>
-</tr>
-</table>
-</div>
-
 </div>
 
 ---
 
 <div align="center">
-
-### 🎯 Professional Mission Statement
-
-**"Bridging the gap between innovative ideas and scalable solutions through clean code, thoughtful architecture, and continuous learning. Every commit is a step toward building a better digital tomorrow."**
-
----
 
 **"First, solve the problem. Then, write the code."** – John Johnson
 
