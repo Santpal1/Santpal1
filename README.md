@@ -223,7 +223,7 @@ Transforming coffee into clean, scalable code
   <a href="https://codepen.io/Santpal-Kalra">
     <img src="https://img.shields.io/badge/CodePen-Explore-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000"/>
   </a>
-  <a href="http://santpal-portfolio.s3-website.eu-north-1.amazonaws.com/">
+  <a href="https://santpal-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722"/>
   </a>
 </p>
