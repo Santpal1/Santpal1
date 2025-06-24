@@ -38,12 +38,11 @@ const santpal = {
     languages: ["JavaScript", "Java", "C++", "Python"],
     currentFocus: [
         "Scalable web applications",
-        "System design patterns",
         "Open source contributions"
     ],
     lifePhilosophy: "Code with passion, debug with patience",
     coffeeConsumed: "∞ cups ☕",
-    currentlyLearning: "Advanced cloud architecture",
+    currentlyLearning: "ThreeJS and GSAP",
     nextGoal: "Contributing to major OSS projects"
 };
 
@@ -59,7 +58,7 @@ console.log("Ready to build something amazing! 🚀");
 
 **🌱 Currently Learning**
 ```
-Advanced System Design & Cloud Architecture
+ThreeJS and GSAP
 ```
 
 **💻 Working On**
@@ -69,11 +68,10 @@ Advanced System Design & Cloud Architecture
 🔍 Research Data Analytics Tools
 ```
 
-**🎯 2024 Goals**
+**🎯 2025 Goals**
 - [ ] Contribute to 5+ major open source projects
 - [x] Master advanced React patterns
-- [ ] Deploy 3 production-ready applications
-- [x] Build a strong developer community presence
+- [ ] Deploy 3 production-ready backend applications
 
 **⚡ Superpower**
 ```
@@ -99,27 +97,23 @@ Transforming coffee into clean, scalable code
 
 ### ⚡ Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,bootstrap,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,figma&theme=dark" />
 </p>
 
 ### 🔧 Backend & Runtime
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
 </p>
 
 ### 🗄️ Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </p>
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins&theme=dark" />
-</p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </p>
 
 </div>
@@ -193,7 +187,7 @@ Transforming coffee into clean, scalable code
 
 **📊 Research Data Analytics**
 - Data visualization tools
-- Research paper analysis
+- Research paper trend analysis
 - Academic insights platform
 
 </td>
@@ -253,12 +247,7 @@ problem_solving: "Think twice, code once"
 collaboration: "Great ideas come from great teams"
 continuous_learning: "Every day is a school day"
 innovation: "Challenge the status quo"
-```
-
-### 📚 Currently Reading
-📖 "System Design Interview" by Alex Xu  
-📖 "Clean Architecture" by Robert Martin  
-📖 "Designing Data-Intensive Applications" by Martin Kleppmann  
+``` 
 
 </div>
 
@@ -301,7 +290,6 @@ innovation: "Challenge the status quo"
 
 <img src="https://komarev.com/ghpvc/?username=Santpal1&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Santpal1?style=for-the-badge&color=blue&labelColor=1c1c1c" alt="Followers"/>
-<img src="https://img.shields.io/badge/Years%20of%20Coding-5+-brightgreen?style=for-the-badge&labelColor=1c1c1c" alt="Years of Coding"/>
 
 ### 💭 Daily Motivation
 
