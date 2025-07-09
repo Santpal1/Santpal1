@@ -63,9 +63,9 @@ ThreeJS and GSAP
 
 **💻 Working On**
 ```
-🧪 AI-Powered Medical Solutions
-🚀 Real-time Chat Applications  
-🔍 Research Data Analytics Tools
+🧪 Finance Tracker
+🚀 Peer Evaluation System
+🔍 Scopus Tracking
 ```
 
 **🎯 2025 Goals**
@@ -161,10 +161,10 @@ Transforming coffee into clean, scalable code
 <tr>
 <td width="50%">
 
-[![AI Medical Detection](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=AI-Powered-Furcation_Detection&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/AI-Powered-Furcation_Detection)
+[![AI Furcation Detection](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=AI-Powered-Furcation_Detection&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/AI-Powered-Furcation_Detection)
 
 **🧠 AI-Powered Medical Solution**
-- Advanced machine learning algorithms
+- Furcation Detection in Dental X-Rays
 - Medical image analysis
 - Real-time detection capabilities
 
@@ -186,18 +186,19 @@ Transforming coffee into clean, scalable code
 [![Research Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=SCOPUS_SRM&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/SCOPUS_SRM)
 
 **📊 Research Data Analytics**
-- Data visualization tools
-- Research paper trend analysis
+- Scopus Data Analyzation
+- Integartion with SciVal
 - Academic insights platform
 
 </td>
 <td width="50%">
 
-<div align="center" style="padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; margin: 10px;">
-  <h3>🚀 More Projects Coming Soon</h3>
-  <p>Currently working on exciting new projects!</p>
-  <p>Stay tuned for updates</p>
-</div>
+[![Peer Evaluation System](https://github-readme-stats.vercel.app/api/pin/?username=Santpal1&repo=pes&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Santpal1/pes)
+
+**🤝 Peer Evaluation System**
+- Peer Evaluation for Exams
+- Multiple Dashboards with Authorization
+- Scalable
 
 </td>
 </tr>
