@@ -29,7 +29,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 Current Status
+## 🔥 Current Status
 
 ```javascript
 const santpal = {
